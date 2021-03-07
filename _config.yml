@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: T. Mass's Lab Notebook_Mass Lab
+name: JeanaDrake Lab Notebook_Mass Lab
 
 # Short bio or description (displayed in the header)
-description: PI
+description: postdoctoral research
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "https://avatars.githubusercontent.com/talimass"
@@ -18,15 +18,15 @@ avatar: "https://avatars.githubusercontent.com/talimass"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tmass@univ.haifa.ac.il
+  email: jeanadrake@g.ucla.edu
   facebook:
   flickr:
-  github: https://github.com/talimass
+  github: https://github.com/jeanadrake
   instagram:
-  linkedin: https://www.linkedin.com/in/tali-mass-7333984b/
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: MassTali
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://talimass.github.io" 
+url: "http://jeanadrake.github.io" 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Talimass_Lab_Notebook_Mass_Lab"
+baseurl: "https://github.com/jeanadrake/JeanaDrake_Lab_Notebook_Mass_Lab"
 
 #
 # !! You don't need to change any of the configuration flags below !!
