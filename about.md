@@ -7,7 +7,7 @@ permalink: /about/
 I am a Zuckerman STEM postdoctoral fellow in Tali Mass's laboratory in the Department of Marine Biology at the University of Haifa, Israel. I also retain an affiliation with the University of California, Los Angeles, CA, USA. My research focuses on the molecular mechanisms of biomineralization, with most of my focus on stony corals, but I also work on black corals and fish otoliths (ear bones). I use biochemical, geochemical and physical-chemical tools as well as molecular biology and bioinformatics to study skeletal proteins in both modern and fossil specimens.
 ### More Information
 
-https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/
+https://sites.google.com/marsci.haifa.ac.il/masslab/team/dr-tali-mass?authuser=0
 ### Contact me
 
 [jeanadrake@g.ucla.edu](mailto:jeanadrake@g.ucla.edu)
