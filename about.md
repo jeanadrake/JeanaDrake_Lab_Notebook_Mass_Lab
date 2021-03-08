@@ -86,9 +86,6 @@ Other Relevant Work Experience
 
 Peer-reviewed Publications
 +denotes a student mentee co-author
-In prep.	Drake, J.L., H. Benayahu, I. Pinkas, T. Mass. Sclerites of the soft coral Ovabunda macrospiculata are predominantly the metastable CaCO3 polymorph vaterite.
-In prep.	+Patzlaff, J., J.L. Drake, M.C. Liu, K.D. McKeegan, D.K. Jacobs. Reconstructing life history from micro-geochemical signatures archived in fish otoliths from a coastal California lagoon.
-In prep.	+LeMeiux, S., J.L. Drake, W. Berelson, L. Hamdan., T. Treude. Benthic biogeochemical processes related to water column oxygen deficiency in the Santa Monica Basin, North East Pacific Ocean.
 In review 	Drake, J.L., A. Malik, Y. Popovits, O. Yosef, E. Shemesh, D. Aharonovich, D. Tchernov, D. Sher, T. Mass. High-resolution intra-colony variability and division of labor: a combined physiological and molecular approach for Stylophora pistillata.
 In review	Drake, J.L., M. Guillermic, R.A. Eagle, D.K. Jacobs. Fossil corals with various degrees of preservation retain information about biomineralization-related organic matter. 
 In review	Thompson, C.L., M. Alberti, S. Barve, F.U. Battistuzzi, J.L. Drake, et al. Back to the future: Reintegrating biology to understand how past eco-evolutionary change can predict future outcomes.
